@@ -35,4 +35,4 @@ Then clone into the git repository, and migrate/seed the database, and start the
 > rails s
 ```
 
-Then go to `localhost:3000` in your browser, and enjoy!
+Then go to `localhost:3000` in your browser and enjoy!
